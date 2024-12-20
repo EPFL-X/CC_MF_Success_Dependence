@@ -1,0 +1,8 @@
+
+Currently Loaded Modules:
+  1) matlab/R2024a
+
+ 
+
+terminate called after throwing an instance of 'matlabconnector::installationsregistry::InstallationsRegistryError'
+  what():  InstallationsRegistry:getMatlabConnectorVersion: More than one MATLAB Connector records were found

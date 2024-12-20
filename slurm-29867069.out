@@ -1,0 +1,22 @@
+sbatch: [ESTIMATION] The estimated cost of this job is CHF 199.58
+sbatch: ╭──────────────────────────────┬─────────────┬─────────────┬─────────────╮
+sbatch: │ [in CHF]                     │ Capping     │ Consumed    │ Queued ¹⁾ ²⁾│
+sbatch: ├──────────────────────────────┼─────────────┼─────────────┼─────────────┤
+sbatch: │ username : zhang2            │ 0           │ 243.9       │ 199.6       │
+sbatch: ├──────────────────────────────┼─────────────┼─────────────┼─────────────┤
+sbatch: │ account : lwe                │ 1,000       │ 257.95      │ 199.6       │
+sbatch: ╰──────────────────────────────┴─────────────┴─────────────┴─────────────╯
+sbatch: ¹⁾ Estimated cost of the queued jobs and this job
+sbatch: ²⁾ Queued jobs costs are based on its walltime (option --time)
+Submitted layer 1 job: 
+sbatch: [ESTIMATION] The estimated cost of this job is CHF 0.01
+sbatch: ╭──────────────────────────────┬─────────────┬─────────────┬─────────────╮
+sbatch: │ [in CHF]                     │ Capping     │ Consumed    │ Queued ¹⁾ ²⁾│
+sbatch: ├──────────────────────────────┼─────────────┼─────────────┼─────────────┤
+sbatch: │ username : zhang2            │ 0           │ 243.9       │ 0.05        │
+sbatch: ├──────────────────────────────┼─────────────┼─────────────┼─────────────┤
+sbatch: │ account : lwe                │ 1,000       │ 257.95      │ 0.05        │
+sbatch: ╰──────────────────────────────┴─────────────┴─────────────┴─────────────╯
+sbatch: ¹⁾ Estimated cost of the queued jobs and this job
+sbatch: ²⁾ Queued jobs costs are based on its walltime (option --time)
+Submitted aggregation 1 job: 29867071
